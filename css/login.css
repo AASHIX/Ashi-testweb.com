@@ -1,0 +1,10 @@
+body{
+    background-image: url(/media/form_background.jpg);
+}
+
+#log_in{
+    height: 300px;
+    width: 300px;
+    background: transparent;
+    position: relative;
+}
